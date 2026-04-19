@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.logo-white{
+    display: none;
+}
+.logo-dark{
+    display: block;
+    /* size: 3px; */
+}
